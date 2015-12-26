@@ -1,0 +1,1 @@
+Official LiquidNext ROM for Acer Liquid bugtracker
